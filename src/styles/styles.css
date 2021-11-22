@@ -1,0 +1,12 @@
+@import "~normalize.css";
+@import "fonts.css";
+
+body {
+	text-align: center;
+}
+
+.container{
+	max-width: 800px;
+	margin: 0 auto;
+	background-color: green;
+}
