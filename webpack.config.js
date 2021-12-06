@@ -68,9 +68,9 @@ const jsLoaders = () => {
 		options: babelOptions()
 	}];
 
-	if(isDev) {
+	/*if(isDev) {
 		loaders.push('eslint-loader')
-	}
+	}*/
 	return loaders
 };
 
